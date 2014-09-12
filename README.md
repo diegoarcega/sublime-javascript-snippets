@@ -35,6 +35,12 @@ console.log(${1:obj});
 ```javascript
 console.warn(${1:obj});
 ```
+### [cde] console.debug
+
+```javascript
+console.debug(${1:obj});
+```
+
 
 ## DOM
 
